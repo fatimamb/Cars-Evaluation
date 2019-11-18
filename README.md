@@ -16,17 +16,17 @@ in this project, I have tried to analyze and answer the following questions:
 
 **Data**
 
-The dataset consists of 1728 ro
-ws and 7 columns and you can find more information on the link below:
+The dataset consists of 1728 rows and 7 columns and you can find more information on the link below:
 
 https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
 **Featureset Exploration**
 
-- Class Values:
-unacc, acc, good, vgood
+***Class Values:***
 
-- Attributes:
+- unacc, acc, good, vgood
+
+***Attributes:***
 
 - buying: vhigh, high, med, low.
 - maint: vhigh, high, med, low.
