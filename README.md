@@ -17,7 +17,9 @@ in this project, I have tried to analyze and answer the following questions:
 **Data**
 
 The dataset consists of 1728 ro
-ws and 7 columns and you can find more information on the link below: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
+ws and 7 columns and you can find more information on the link below:
+
+https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
 **Featureset Exploration**
 
@@ -33,3 +35,9 @@ unacc, acc, good, vgood
 - lug_boot: small, med, big.
 - safety: low, med, high.
 
+
+**Results**
+
+you can see my finds in the blog on the link below:
+
+https://fatimammb.blogspot.com/2019/11/car-evaluation.html
