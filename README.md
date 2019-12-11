@@ -35,6 +35,12 @@ https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 - lug_boot: small, med, big.
 - safety: low, med, high.
 
+### Software and Libraries:
+
+- numpy
+- pandas
+- matplotlib
+- sklearn
 
 ### Results:
 
