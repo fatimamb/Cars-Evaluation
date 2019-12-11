@@ -1,32 +1,32 @@
-# Data Scientist Nanodegree Program
-Project 4: Cars-Evaluation
+# Cars Evaluation Project
 
-**Project Description**
+
+### Project Description
 
 This project (write a data science blog post) is a part of Udacity Data Scientist Nanodegree Program.
 In this project, I have analyzed data publicly available about Car Evaluation and was downloaded from the UC Irvine Machine Learning Repository.
 also I have used supervised machine learning algorithms Random Forest. 
 in this project, I have tried to analyze and answer the following questions:
 
-1 - Is the very good car expensive?
+1. Is the very good car expensive?
 
-2 - Is the safety will be high on the expensive the cars only?
+2. Is the safety will be high on the expensive cars only?
 
-3 - Is the price of cars affect the price of maintenance?
+3. Is the price of cars affect the price of maintenance?
 
-**Data**
+### Data:
 
 The dataset consists of 1728 rows and 7 columns and you can find more information on the link below:
 
 https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
-**Featureset Exploration**
+### Featureset Exploration:
 
-***Class Values:***
+**Class Values:**
 
 - unacc, acc, good, vgood
 
-***Attributes:***
+**Attributes:**
 
 - buying: vhigh, high, med, low.
 - maint: vhigh, high, med, low.
@@ -36,7 +36,7 @@ https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 - safety: low, med, high.
 
 
-**Results**
+### Results:
 
 you can see my finds in the blog on the link below:
 
